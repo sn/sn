@@ -51,9 +51,9 @@ I tend to experiment with a lot of technologies, but work professionally with:
 - [IndieMaker](https://indiemaker.co)
 - [MyPerks](https://myperks.co.za)
 - [Amethyst](https://github.com/amethyst-framework)
-- Nitro _coming soon_
-- Nano _coming soon_
-- Craaft _coming soon_
+- Nitro (_coming soon_)
+- Nano (_coming soon_)
+- Craaft (_coming soon_)
 
 🤼 I'm looking to collaborate on: 
 
