@@ -20,7 +20,7 @@ I usually build software with [Ruby on Rails](https://rubyonrails.org/), [Larave
 - Neo4j Certified Professional
 - LPIC-1
 
-**🖥 I'm Currently working on:** 
+**🖥 I'm currently working on:** 
 
 - [IndieMaker](https://indiemaker.co)
 - [MyPerks](https://myperks.co.za)
