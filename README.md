@@ -9,7 +9,8 @@ I usually build software with [Ruby on Rails](https://rubyonrails.org/), [Larave
 
 [![linkedin badge](https://img.shields.io/badge/Sean_Nieuwoudt-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/seannieuwoudt)
 [![twitter badge](https://img.shields.io/badge/@302F33-30302f?style=flat&logo=twitter)](https://twitter.com/302F33)
-[![twitter badge](https://img.shields.io/badge/seannieuwoudt-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/seannieuwoudt)
+[![stackoverflow badge](https://img.shields.io/badge/seannieuwoudt-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/seannieuwoudt)
+[![stackoverflow badge](https://img.shields.io/badge/SeanNieuwoudt-30302f?style=flat&logo=dribbble)](https://dribbble.com/SeanNieuwoudt)
 
 **🦠 Certifications:**
 
