@@ -11,7 +11,7 @@ I usually build software with [Ruby on Rails](https://rubyonrails.org/), [Larave
 [![twitter badge](https://img.shields.io/badge/@302F33-30302f?style=flat&logo=twitter)](https://twitter.com/302F33)
 [![twitter badge](https://img.shields.io/badge/seannieuwoudt-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/seannieuwoudt)
 
-🦠 Certifications: 
+**🦠 Certifications:**
 
 - AWS Certified Solutions Architect
 - AWS Certified Developer 
@@ -19,7 +19,7 @@ I usually build software with [Ruby on Rails](https://rubyonrails.org/), [Larave
 - Neo4j Certified Professional
 - LPIC-1
 
-🖥 I'm Currently working on: 
+**🖥 I'm Currently working on:** 
 
 - [IndieMaker](https://indiemaker.co)
 - [MyPerks](https://myperks.co.za)
@@ -28,7 +28,7 @@ I usually build software with [Ruby on Rails](https://rubyonrails.org/), [Larave
 - Nano (_coming soon_)
 - Craaft (_coming soon_)
 
-🤼 I'm looking to collaborate on: 
+**🤼 I'm looking to collaborate on:**
 
 - Open source projects 
 - Paid work or gigs
