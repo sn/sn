@@ -10,27 +10,22 @@ I'm a **senior full-stack software developer / CTO** that's been building platfo
 
 I tend to experiment with a lot of technologies, but work professionally with:
 
-- Ruby
-    - [Ruby on Rails](https://rubyonrails.org/)
-    - [Sinatra](http://sinatrarb.com/)
-- PHP
-    - [Laravel](https://laravel.com/)
-    - [Symfony](https://symfony.com/)
-    - [Codeigniter](https://codeigniter.com/)
-    - [CakePHP](https://cakephp.org/)
-- JavaScript
-    - [Node.js](https://nodejs.org/en/)
-    - [React.js](React.js)
-    - [Vue.js](https://vuejs.org/)
-    - [jQuery](https://jquery.com/)
-- Python
-    - [Django](https://www.djangoproject.com/)
-    - [Flask](https://palletsprojects.com/p/flask/)
-- Mobile (Android / iOS)
-    - [Dart](https://dart.dev/)
-    - [Flutter](https://flutter.dev/)
-    - [Kotlin](https://kotlinlang.org/)
-    - [Swift](https://developer.apple.com/swift/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Sinatra](http://sinatrarb.com/)
+- [Laravel](https://laravel.com/)
+- [Symfony](https://symfony.com/)
+- [Codeigniter](https://codeigniter.com/)
+- [CakePHP](https://cakephp.org/)
+- [Node.js](https://nodejs.org/en/)
+- [React.js](React.js)
+- [Vue.js](https://vuejs.org/)
+- [jQuery](https://jquery.com/)
+- [Django](https://www.djangoproject.com/)
+- [Flask](https://palletsprojects.com/p/flask/)
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Kotlin](https://kotlinlang.org/)
+- [Swift](https://developer.apple.com/swift/)
 - [Crystal](https://crystal-lang.org/)
 - [Electron](https://www.electronjs.org/)
 - [Go](https://golang.org/)
@@ -65,8 +60,3 @@ I tend to experiment with a lot of technologies, but work professionally with:
 - Open source projects 
 - Paid work or gigs
 - Start-ups
-
-
-
-![<Title for your card>](https://github-readme-stats.vercel.app/api?username=sn&show_icons=true&theme=radical)
-
