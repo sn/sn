@@ -5,7 +5,7 @@ This is my Github profile where I do most of my work.
 I'm a **senior full-stack software developer / CTO** that's been building platforms, websites, mobile apps and hardware for the better part of 16 years for millions of people around the world.
 
 I usually build software with [Ruby on Rails](https://rubyonrails.org/), [Laravel](https://laravel.com/), [Node.js](https://nodejs.org/en/), 
-[React.js](React.js), [Vue.js](https://vuejs.org/), [Django](https://www.djangoproject.com/) or [Flutter](https://flutter.dev/).
+[React.js](React.js), [Vue.js](https://vuejs.org/), [Django](https://www.djangoproject.com/), [Go](https://golang.org/) or [Flutter](https://flutter.dev/).
 
 [![linkedin badge](https://img.shields.io/badge/Sean_Nieuwoudt-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/seannieuwoudt)
 [![twitter badge](https://img.shields.io/badge/@302F33-30302f?style=flat&logo=twitter)](https://twitter.com/302F33)
