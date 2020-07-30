@@ -2,7 +2,7 @@
 
 This is my Github profile where I do most of my work. 
 
-I'm a **senior full-stack software developer / CTO** that's been building platforms, websites, mobile apps, hardware for the better part of 16 years for millions of people around the world.
+I'm a **senior full-stack software developer / CTO** that's been building platforms, websites, mobile apps and hardware for the better part of 16 years for millions of people around the world.
 
 I usually build software with [Ruby on Rails](https://rubyonrails.org/), [Laravel](https://laravel.com/), [Node.js](https://nodejs.org/en/), 
 [React.js](React.js), [Vue.js](https://vuejs.org/), [Django](https://www.djangoproject.com/) or [Flutter](https://flutter.dev/).
