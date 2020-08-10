@@ -25,6 +25,7 @@ I usually build software with [Ruby on Rails](https://rubyonrails.org/), [Larave
 - [IndieMaker](https://indiemaker.co)
 - [MyPerks](https://myperks.co.za)
 - [Amethyst](https://github.com/amethyst-framework)
+- [FlutterDevStudio](https://flutterdevstudio.com)
 - Nitro (_coming soon_)
 - Nano (_coming soon_)
 - Craaft (_coming soon_)
