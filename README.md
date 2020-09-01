@@ -24,11 +24,11 @@ I usually build software with [Ruby on Rails](https://rubyonrails.org/), [Larave
 
 - [IndieMaker](https://indiemaker.co)
 - [MyPerks](https://myperks.co.za)
-- [Amethyst](https://github.com/amethyst-framework)
-- [FlutterDevStudio](https://flutterdevstudio.com)
-- Nitro (_coming soon_)
-- Nano (_coming soon_)
-- Craaft (_coming soon_)
+- [Amethyst](https://github.com/amethyst-framework) (WIP)
+- [FlutterDevStudio](https://flutterdevstudio.com) (_coming soon_)
+- [Nitro](https://nitro.sh) (_coming soon_)
+- [Nano](https://nano.sh) (_coming soon_)
+- [Craaft](https://craaft.co) (_coming soon_)
 
 **🤼 I'm looking to collaborate on:**
 
