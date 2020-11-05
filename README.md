@@ -8,7 +8,7 @@ I usually build software with [Ruby on Rails](https://rubyonrails.org/), [Larave
 [React.js](React.js), [Vue.js](https://vuejs.org/), [Django](https://www.djangoproject.com/), [Go](https://golang.org/), [Flutter](https://flutter.dev/) or [Java](https://www.java.com/en/)
 
 [![linkedin badge](https://img.shields.io/badge/Sean_Nieuwoudt-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/seannieuwoudt)
-[![twitter badge](https://img.shields.io/badge/@thezeffness-thezeffness?style=flat&logo=twitter)](https://twitter.com/thezeffness)
+[![twitter badge](https://img.shields.io/badge/@thezeffness-30302f?style=flat&logo=twitter)](https://twitter.com/thezeffness)
 [![stackoverflow badge](https://img.shields.io/badge/seannieuwoudt-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/seannieuwoudt)
 [![dribbble badge](https://img.shields.io/badge/SeanNieuwoudt-30302f?style=flat&logo=dribbble)](https://dribbble.com/SeanNieuwoudt)
 
