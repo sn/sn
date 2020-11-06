@@ -6,15 +6,9 @@ I'm a **senior full-stack software developer** that's been building platforms, w
 
 I usually build software with:
 
-- [Ruby on Rails](https://rubyonrails.org)
-- [Laravel](https://laravel.com)
-- [Node.js](https://nodejs.org/en)
-- [Go](https://golang.org)
-- [Java](https://www.java.com/en)
-- [Flutter](https://flutter.dev) 
-- [Django](https://www.djangoproject.com)
-- [Vue.js](https://vuejs.org)
-- [React.js](React.js)
+|[Ruby on Rails](https://rubyonrails.org) | [Laravel](https://laravel.com) | [Node.js](https://nodejs.org/en)|
+|[Go](https://golang.org)|[Java](https://www.java.com/en)|[Flutter](https://flutter.dev)|
+|[Django](https://www.djangoproject.com)|[Vue.js](https://vuejs.org)|[React.js](React.js)|
 
 [![linkedin badge](https://img.shields.io/badge/Sean_Nieuwoudt-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/seannieuwoudt)
 [![twitter badge](https://img.shields.io/badge/@thezeffness-30302f?style=flat&logo=twitter)](https://twitter.com/thezeffness)
