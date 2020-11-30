@@ -15,14 +15,6 @@ You can also find me on:
 [![stackoverflow badge](https://img.shields.io/badge/seannieuwoudt-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/seannieuwoudt)
 [![dribbble badge](https://img.shields.io/badge/SeanNieuwoudt-30302f?style=flat&logo=dribbble)](https://dribbble.com/SeanNieuwoudt)
 
-**🦠 Certifications:**
-
-- AWS Certified Solutions Architect
-- AWS Certified Developer 
-- Oracle Certified Java Developer
-- Neo4j Certified Professional
-- LPIC-1
-
 **🖥 I'm currently working on:** 
 
 - [IndieMaker](https://indiemaker.co)
@@ -31,6 +23,14 @@ You can also find me on:
 - [Nitro](https://nitro.sh) (_coming soon_)
 - [Nano](https://nano.sh) (_coming soon_)
 - [Craaft](https://craaft.co) (_coming soon_)
+
+**🦠 Certifications:**
+
+- AWS Certified Solutions Architect
+- AWS Certified Developer 
+- Oracle Certified Java Developer
+- Neo4j Certified Professional
+- LPIC-1
 
 **🤼 I'm looking to collaborate on:**
 
