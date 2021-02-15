@@ -2,7 +2,7 @@
 
 This is my Github profile where I do most of my work. 
 
-I'm a **senior full-stack software developer** that's been building platforms, websites, mobile apps and hardware for the better part of 16 years for millions of people around the world.
+I'm a **senior full-stack software developer** that's been building platforms, websites, mobile apps and hardware for the better part of 17 years for millions of people around the world.
 
 I usually build software with:
 
