@@ -31,12 +31,12 @@ You can also find me on:
 - Oracle Certified Java Developer
 - Neo4j Certified Professional
 - LPIC-1
-- GCP Professional Cloud Architect (In Progress)
-- GCP Professional Cloud Developer (In Progress)
+- GCP Professional Cloud Architect (_In Progress_)
+- GCP Professional Cloud Developer (_In Progress_)
 
-**🤼 I'm looking to collaborate on:**
+**🤼 I'm looking to:**
 
-- Contributing to open source projects 
-- Contract work
-- Start-ups
-- Solving interesting problems
+- Contribute to open source projects 
+- Do contract work or freelance
+- Get involved with start-ups
+- Solve interesting problems using technology
