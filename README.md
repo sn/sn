@@ -33,7 +33,7 @@ You can also find me on:
 - AWS Certified Developer 
 - Oracle Certified Java Developer
 - Neo4j Certified Professional
-- LPIC-1
+- LPIC-1/2
 - GCP Professional Cloud Architect (_In Progress_)
 - GCP Professional Cloud Developer (_In Progress_)
 
