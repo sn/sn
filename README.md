@@ -1,8 +1,6 @@
 ### Hi 👋
 
-This is my Github profile where I do most of my work. 
-
-I'm a **senior full-stack software developer, CTO and solutions architect** that's been building software platforms, websites, mobile apps and hardware for the better part of 17 years for millions of people around the world.
+I'm a senior **full-stack software developer, CTO, and solutions architect** that's been building software platforms, websites, mobile apps, and hardware for the better part of 17 years for millions of people worldwide.
 
 Solving problems and creating tools that help other creators be the best they can be is my core motivation.
 
