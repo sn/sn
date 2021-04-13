@@ -18,7 +18,7 @@ You can also find me on:
 **🖥 I'm currently working on:** 
 
 - [IndieMaker](https://indiemaker.co)
-- [MyPerks](https://myperks.co.za) (exited)
+- [MyPerks](https://myperks.co.za) (exited 2021)
 - [Amethyst](https://github.com/amethyst-framework) (WIP)
 - [Nitro](https://nitro.sh) (_coming soon 2021_)
 - [Nano](https://nano.sh) (_coming soon 2021_)
