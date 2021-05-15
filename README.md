@@ -6,7 +6,7 @@ Solving problems and creating tools that help other creators be the best they ca
 
 I usually build software with:
 
-[Ruby on Rails](https://rubyonrails.org), [Laravel](https://laravel.com), [Node.js](https://nodejs.org/en), [Go](https://golang.org), [Java](https://www.java.com/en), [Flutter](https://flutter.dev), [Django](https://www.djangoproject.com), [Vue.js](https://vuejs.org), [React.js](React.js)
+[Ruby on Rails](https://rubyonrails.org), [Python](https://www.python.org), [Laravel](https://laravel.com), [Node.js](https://nodejs.org/en), [Go](https://golang.org), [Java](https://www.java.com/en), [Flutter](https://flutter.dev), [Django](https://www.djangoproject.com), [Vue.js](https://vuejs.org), [React.js](React.js)
 
 You can also find me on: 
 
