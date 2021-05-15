@@ -12,8 +12,8 @@ You can also find me on:
 
 [![linkedin badge](https://img.shields.io/badge/Sean_Nieuwoudt-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/seannieuwoudt)
 [![twitter badge](https://img.shields.io/badge/@ghstcode-30302f?style=flat&logo=twitter)](https://twitter.com/ghstcode)
-[![stackoverflow badge](https://img.shields.io/badge/seannieuwoudt-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/ghstcode)
-[![dribbble badge](https://img.shields.io/badge/SeanNieuwoudt-30302f?style=flat&logo=dribbble)](https://dribbble.com/ghstcode)
+[![stackoverflow badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/ghstcode)
+[![dribbble badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=dribbble)](https://dribbble.com/ghstcode)
 
 **🖥 I'm currently working on:** 
 
