@@ -4,7 +4,7 @@ I'm a senior **full-stack software developer, CTO, and solutions architect** tha
 
 Solving problems and creating tools that help other creators be the best they can be is my core motivation.
 
-I usually build software with:
+**I usually build software with:**
 
 [Ruby on Rails](https://rubyonrails.org), [Python](https://www.python.org), [Laravel](https://laravel.com), [Node.js](https://nodejs.org/en), [Go](https://golang.org), [Java](https://www.java.com/en), [Flutter](https://flutter.dev), [Django](https://www.djangoproject.com), [Vue.js](https://vuejs.org), [React.js](React.js)
 
@@ -18,11 +18,11 @@ You can also find me on:
 **🖥 I'm currently working on:** 
 
 - [IndieMaker](https://indiemaker.co)
-- [MyPerks](https://myperks.co.za) (exited 2021)
+- [MyPerks](https://myperks.co.za) (sold 2021)
 - [Amethyst](https://github.com/amethyst-framework) (WIP)
 - [Nitro](https://nitro.sh) (_coming soon 2021_)
 - [Nano](https://nano.sh) (_coming soon 2021_)
-- [Craaft](https://craaft.co) (_coming soon 2021_)
+- [Craaft](https://craaft.io) (_coming soon 2021_)
 - [Microhost](https://microhost.dev) (_coming soon 2021_)
 
 **🦠 Certifications:**
