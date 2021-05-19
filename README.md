@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a senior **full-stack software developer, CTO, and solutions architect** that's been building software platforms, websites, mobile apps, and hardware for the better part of 17 years for millions of people worldwide.
+I'm a senior **full-stack software developer, solutions architect** that's been building software platforms, websites, mobile apps, and hardware for the better part of 17 years for millions of people worldwide.
 
 Solving problems and creating tools that help other creators be the best they can be is my core motivation.
 
@@ -8,9 +8,8 @@ Solving problems and creating tools that help other creators be the best they ca
 
 - [Ruby on Rails](https://rubyonrails.org)
 - [Django](https://www.djangoproject.com) 
-- [Java](https://www.java.com/en)
+- [Spring](https://spring.io)
 - [Flutter](https://flutter.dev)
-- [Laravel](https://laravel.com) 
 - [Node.js](https://nodejs.org/en)
 - [Go](https://golang.org)
 
@@ -30,6 +29,7 @@ You can also find me on:
 - [Nano](https://nano.sh) (_coming soon 2021_)
 - [Craaft](https://craaft.io) (_coming soon 2021_)
 - [Microhost](https://microhost.dev) (_coming soon 2021_)
+- []
 
 **🦠 Certifications:**
 
@@ -41,9 +41,9 @@ You can also find me on:
 - GCP Professional Cloud Architect (_In Progress_)
 - GCP Professional Cloud Developer (_In Progress_)
 
-**🤼 I'm looking to:**
+**🤼 Open to:**
 
-- Contribute to open source projects 
-- Do contract work or freelance
-- Get involved with start-ups
-- Solve interesting problems using technology
+- Contributing to open source 
+- Contracting / freelancing
+- Helping startups 
+- Working on challenging problems
