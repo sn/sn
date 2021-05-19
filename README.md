@@ -29,7 +29,6 @@ You can also find me on:
 - [Nano](https://nano.sh) (_coming soon 2021_)
 - [Craaft](https://craaft.io) (_coming soon 2021_)
 - [Microhost](https://microhost.dev) (_coming soon 2021_)
-- []
 
 **🦠 Certifications:**
 
