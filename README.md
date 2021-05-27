@@ -6,8 +6,8 @@ Solving problems and creating tools that help other creators be the best they ca
 
 **I usually build software with:**
 
-- [Ruby on Rails](https://rubyonrails.org)
-- [Django](https://www.djangoproject.com) 
+- [Ruby](https://www.ruby-lang.org/en)
+- [Python](https://www.python.org/) 
 - [Spring](https://spring.io)
 - [Flutter](https://flutter.dev)
 - [Node.js](https://nodejs.org/en)
