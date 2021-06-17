@@ -24,11 +24,18 @@ You can also find me on:
 
 - [IndieMaker](https://indiemaker.co)
 - [MyPerks](https://myperks.co.za) (sold 2021)
-- [Amethyst](https://github.com/amethyst-framework) (WIP)
 - [Nitro](https://nitro.sh) (_coming soon 2021_)
 - [Nano](https://nano.sh) (_coming soon 2021_)
 - [Craaft](https://craaft.io) (_coming soon 2021_)
 - [Microhost](https://microhost.dev) (_coming soon 2021_)
+- [Amethyst](https://github.com/amethyst-framework) (WIP)
+
+**🤼 Open to:**
+
+- Contributing to open source 
+- Contracting / freelancing
+- Helping startups 
+- Working on challenging problems
 
 **🦠 Certifications:**
 
@@ -39,10 +46,3 @@ You can also find me on:
 - LPIC-1/2
 - GCP Professional Cloud Architect (_In Progress_)
 - GCP Professional Cloud Developer (_In Progress_)
-
-**🤼 Open to:**
-
-- Contributing to open source 
-- Contracting / freelancing
-- Helping startups 
-- Working on challenging problems
