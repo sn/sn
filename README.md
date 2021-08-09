@@ -1,16 +1,16 @@
 ### Hi 👋
 
-I'm a senior **full-stack software developer, solutions architect** that's been building software platforms, websites, mobile apps, and hardware for the better part of 17 years for millions of people worldwide.
+I'm a senior **full-stack software developer, solutions architect & CTO** that's been building software platforms, websites, mobile apps, and hardware for the better part of 17 years for millions of people worldwide.
 
 Solving problems and creating tools that help other creators be the best they can be is my core motivation.
 
 **I usually build software with:**
 
 - [Ruby](https://www.ruby-lang.org/en)
-- [Python](https://www.python.org/) 
-- [Spring](https://spring.io)
+- [Python](https://www.python.org) 
+- [Java](https://www.java.com/en)
 - [Flutter](https://flutter.dev)
-- [Node.js](https://nodejs.org/en)
+- [JavaScript](https://www.javascript.com)
 - [Go](https://golang.org)
 
 You can also find me on: 
@@ -36,13 +36,3 @@ You can also find me on:
 - Contracting / freelancing
 - Helping startups 
 - Working on challenging problems
-
-**🦠 Certifications:**
-
-- AWS Certified Solutions Architect
-- AWS Certified Developer 
-- Oracle Certified Java Developer
-- Neo4j Certified Professional
-- LPIC-1/2
-- GCP Professional Cloud Architect (_In Progress_)
-- GCP Professional Cloud Developer (_In Progress_)
