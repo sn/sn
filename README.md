@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm a senior **full-stack software developer, solutions architect & CTO** that's been building software platforms, websites, mobile apps, and hardware for the better part of 17 years for millions of people worldwide.
+I'm a full-stack developer // solutions architect // CTO
 
-Solving problems and creating tools that help other creators be the best they can be is my core motivation.
+My mission is to create amazing tools that help other creators be the best they can be. 
 
 **I usually build software with:**
 
