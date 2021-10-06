@@ -20,15 +20,11 @@ You can also find me on:
 [![stackoverflow badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/ghstcode)
 [![dribbble badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=dribbble)](https://dribbble.com/ghstcode)
 
-**🖥 I'm currently working on:** 
+**🖥 Side-Projects I'm currently working on:** 
 
 - [IndieMaker](https://indiemaker.co)
 - [MyPerks](https://myperks.co.za) (sold 2021)
 - [Nitro](https://nitro.sh) (_coming soon 2021_)
-- [Nano](https://nano.sh) (_coming soon 2021_)
-- [Craaft](https://craaft.io) (_coming soon 2021_)
-- [Microhost](https://microhost.dev) (_coming soon 2021_)
-- [Amethyst](https://github.com/amethyst-framework) (WIP)
 
 **🤼 Open to:**
 
