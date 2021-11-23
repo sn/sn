@@ -24,7 +24,8 @@ You can also find me on:
 
 - [IndieMaker](https://indiemaker.co)
 - [MyPerks](https://myperks.co.za) (sold 2021)
-- [Nitro](https://nitro.sh) (_coming soon 2021_)
+- [Nitro](https://nitro.sh) (_coming soon 2022_)
+- [Gigboard](https://gigboard.io) (_coming soon 2022_)
 
 **🤼 Open to:**
 
