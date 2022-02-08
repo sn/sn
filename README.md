@@ -21,10 +21,10 @@ You can also find me on:
 
 **🖥 Side-projects I'm currently working on:** 
 
-- [IndieMaker](https://indiemaker.co)
-- [MyPerks](https://myperks.co.za) (sold 2021)
-- [Nitro](https://nitro.sh) (_coming soon 2022_)
-- [Gigboard](https://gigboard.io) (_coming soon 2022_)
+- [indiemaker](https://indiemaker.co)
+- [myperks](https://myperks.co.za) (sold 2021)
+- [nitro](https://nitro.sh) (_coming soon 2022_)
+- [gigboard](https://gigboard.io) (_coming soon 2022_)
 - [ohheycrypto](https://ohheycrypto.com) (_coming soon 2022_)
 
 **🤼 Open to:**
