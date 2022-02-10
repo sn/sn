@@ -4,22 +4,15 @@ I'm a full-stack developer // solutions architect // CTO.
 
 My mission is to create amazing tools that help other creators be the best they can be. 
 
-**I usually build software with:**
+**Building software with:**
 
-- [Python](https://www.python.org) 
-- [JavaScript](https://www.javascript.com)
-- [Go](https://golang.org)
-- [Ruby](https://www.ruby-lang.org/en)
-- [Flutter](https://flutter.dev)
+- [#python](https://www.python.org) 
+- [#javascript](https://www.javascript.com)
+- [#go](https://golang.org)
+- [#ruby](https://www.ruby-lang.org/en)
+- [#flutter](https://flutter.dev)
 
-You can also find me on: 
-
-[![linkedin badge](https://img.shields.io/badge/Sean_Nieuwoudt-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/seannieuwoudt)
-[![twitter badge](https://img.shields.io/badge/@ghstcode-30302f?style=flat&logo=twitter)](https://twitter.com/ghstcode)
-[![stackoverflow badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/ghstcode)
-[![dribbble badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=dribbble)](https://dribbble.com/ghstcode)
-
-**🖥 Side-projects I'm currently working on:** 
+**Currently building:** 
 
 - [indiemaker.co](https://indiemaker.co)
 - [myperks.co.za](https://myperks.co.za) (sold 2021)
@@ -27,9 +20,16 @@ You can also find me on:
 - [gigboard.io](https://gigboard.io) (_coming soon 2022_)
 - [ohheycrypto.com](https://ohheycrypto.com) (_coming soon 2022_)
 
-**🤼 Open to:**
+**Open to:**
 
-- Contributing to open source 
-- Contracting / freelancing
-- Helping startups 
-- Working on interesting problems
+- #opensource 
+- #contracting 
+- #freelancing
+- #startups 
+
+**Other profiles:** 
+
+[![linkedin badge](https://img.shields.io/badge/Sean_Nieuwoudt-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/seannieuwoudt)
+[![twitter badge](https://img.shields.io/badge/@ghstcode-30302f?style=flat&logo=twitter)](https://twitter.com/ghstcode)
+[![stackoverflow badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/ghstcode)
+[![dribbble badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=dribbble)](https://dribbble.com/ghstcode)
