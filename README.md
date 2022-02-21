@@ -11,6 +11,7 @@ My mission is to create amazing tools that help other creators be the best they 
 - [#go](https://golang.org)
 - [#ruby](https://www.ruby-lang.org/en)
 - [#flutter](https://flutter.dev)
+- [#solidity](https://soliditylang.org)
 
 **Currently building:** 
 
