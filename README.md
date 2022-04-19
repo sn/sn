@@ -6,12 +6,7 @@ My mission is to create amazing tools that help other creators be the best they 
 
 **Building software with:**
 
-- [#python](https://www.python.org) 
-- [#javascript](https://www.javascript.com)
-- [#go](https://golang.org)
-- [#ruby](https://www.ruby-lang.org/en)
-- [#flutter](https://flutter.dev)
-- [#solidity](https://soliditylang.org)
+[#python](https://www.python.org), [#javascript](https://www.javascript.com), [#go](https://golang.org), [#ruby](https://www.ruby-lang.org/en), [#flutter](https://flutter.dev), [#solidity](https://soliditylang.org)
 
 **Currently building:** 
 
