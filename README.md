@@ -8,7 +8,8 @@ I'm a full-stack developer // solutions architect // CTO.
 
 **Tinkering on:** 
 
-- [indiemaker.co](https://indiemaker.co)
+- [indiemaker.com](https://indiemaker.com)
+- [ecko.sh](https://ecko.sh)
 - [myperks.co.za](https://myperks.co.za) (sold 2021)
 - [nitro.sh](https://nitro.sh) (_coming soon 2022_)
 - [gigboard.io](https://gigboard.io) (_coming soon 2022_)
