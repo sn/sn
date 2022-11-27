@@ -4,7 +4,7 @@ I'm a full-stack developer // solutions architect // CTO.
 
 **Building software with:**
 
-[#python](https://www.python.org) [#javascript](https://www.javascript.com) [#go](https://golang.org) [#ruby](https://www.ruby-lang.org/en) [#flutter](https://flutter.dev) [#solidity](https://soliditylang.org)
+[#python](https://www.python.org) [#javascript](https://www.javascript.com) [#go](https://golang.org) [#ruby](https://www.ruby-lang.org/en) [#flutter](https://flutter.dev) [#kotlin](https://kotlinlang.org/)
 
 **Tinkering on:** 
 
