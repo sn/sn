@@ -11,9 +11,10 @@ I'm a full-stack developer // solutions architect // CTO.
 - [indiemaker.com](https://indiemaker.com)
 - [ecko.sh](https://ecko.sh)
 - [myperks.co.za](https://myperks.co.za) (sold 2021)
-- [nitro.sh](https://nitro.sh) (_coming soon 2022_)
-- [gigboard.io](https://gigboard.io) (_coming soon 2022_)
-- [ohheycrypto.com](https://ohheycrypto.com) (_coming soon 2022_)
+- [nitro.sh](https://nitro.sh) (_coming soon 2023_)
+- [gigboard.io](https://gigboard.io) (_coming soon 2023_)
+- [leadio.co](https://leadio.co) (_coming soon 2023_)
+- [tinyco.dev](https://tinyco.dev) (_coming soon 2023_)
 
 **Open to:**
 
