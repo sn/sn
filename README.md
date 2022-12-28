@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a full-stack developer // solutions architect // CTO.
+I'm a full-stack developer // solutions architect // CTO. I build digital companies. 
 
 **Building software with:**
 
