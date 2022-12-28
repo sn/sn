@@ -6,15 +6,18 @@ I'm a full-stack developer // solutions architect // CTO. I build digital compan
 
 [#python](https://www.python.org) [#javascript](https://www.javascript.com) [#go](https://golang.org) [#ruby](https://www.ruby-lang.org/en) [#flutter](https://flutter.dev) [#kotlin](https://kotlinlang.org/)
 
-**Tinkering on:** 
+**Currently working on:** 
 
 - [indiemaker.com](https://indiemaker.com)
 - [ecko.sh](https://ecko.sh)
-- [myperks.co.za](https://myperks.co.za) (sold 2021)
 - [nitro.sh](https://nitro.sh) (_coming soon 2023_)
 - [gigboard.io](https://gigboard.io) (_coming soon 2023_)
 - [leadio.co](https://leadio.co) (_coming soon 2023_)
 - [tinyco.dev](https://tinyco.dev) (_coming soon 2023_)
+
+**Previously sold:**
+- [wixelhq.com](https://wixelhq.com) (sold 2019)
+- [myperks.co.za](https://myperks.co.za) (sold 2021)
 
 **Open to:**
 
