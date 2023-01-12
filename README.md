@@ -9,11 +9,9 @@ I'm a full-stack developer // solutions architect // CTO. I build digital compan
 **Currently working on:** 
 
 - [indiemaker.com](https://indiemaker.com)
-- [ecko.sh](https://ecko.sh)
+- [domainspace.dev](https://domainspace.dev)
+- [ecko.sh](https://ecko.sh) (_coming soon 2023_)
 - [nitro.sh](https://nitro.sh) (_coming soon 2023_)
-- [gigboard.io](https://gigboard.io) (_coming soon 2023_)
-- [leadio.co](https://leadio.co) (_coming soon 2023_)
-- [tinyco.dev](https://tinyco.dev) (_coming soon 2023_)
 
 **Previously sold:**
 - [wixelhq.com](https://wixelhq.com) (sold 2019)
