@@ -10,7 +10,6 @@ I'm a full-stack developer // solutions architect // CTO. I build digital compan
 
 - [indiemaker.com](https://indiemaker.com)
 - [domainspace.dev](https://domainspace.dev)
-- [ecko.sh](https://ecko.sh) (_coming soon 2023_)
 - [nitro.sh](https://nitro.sh) (_coming soon 2023_)
 
 **Previously sold:**
