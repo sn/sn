@@ -9,7 +9,6 @@ I'm a full-stack developer // solutions architect // CTO. I build digital compan
 **Currently working on:** 
 
 - [indiemaker.com](https://indiemaker.com)
-- [domainspace.dev](https://domainspace.dev) (_wip_)
 - [nitro.sh](https://nitro.sh) (_coming soon 2024_)
 
 **Previously sold:**
