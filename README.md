@@ -21,7 +21,15 @@ I'm a full-stack developer // solutions architect // CTO. I build digital compan
 - #opensource 
 - #contracting 
 - #freelancing
-- #startups 
+- #startups
+
+**I work with:**
+
+- Python
+- Golang
+- Kotlin
+- JavaScript
+- Ruby
 
 **Find me on:** 
 
