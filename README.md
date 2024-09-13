@@ -9,7 +9,8 @@ I'm a full-stack developer // solutions architect // CTO. I build digital compan
 **Currently working on:** 
 
 - [indiemaker.com](https://indiemaker.com)
-- [nitro.sh](https://nitro.sh) (_coming soon 2024_)
+- [nitro.sh](https://nitro.sh) (_coming soon 2025_)
+- [underwulf.com](https://underwulf.com)
 
 **Previously sold:**
 - [wixelhq.com](https://wixelhq.com) (sold 2019)
