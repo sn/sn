@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a full-stack developer // solutions architect // CTO. I build digital companies and products.
+I'm a full-stack developer // solutions architect // CTO. I build digital companies and products. Always striving for simplicity, minimalism and efficiency. 
 
 **Building software with:**
 
@@ -22,18 +22,6 @@ I'm a full-stack developer // solutions architect // CTO. I build digital compan
 - #contracting 
 - #freelancing
 - #startups
-
-**I work with:**
-
-- Python
-- Golang
-- Kotlin
-- JavaScript
-- Ruby
-- Flutter
-- Vue
-- React
-- PHP
 
 **Find me on:** 
 
