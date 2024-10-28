@@ -4,7 +4,7 @@ I'm a full-stack developer // solutions architect // CTO. I build digital compan
 
 **Building software with:**
 
-[#python](https://www.python.org) [#java](https://www.java.com/en/) [#javascript](https://www.javascript.com) [#go](https://golang.org) [#ruby](https://www.ruby-lang.org/en) [#flutter](https://flutter.dev)
+[#python](https://www.python.org) [#java](https://www.java.com/en/) [#javascript](https://www.javascript.com) [#go](https://golang.org) [#ruby](https://www.ruby-lang.org/en) [#flutter](https://flutter.dev) [#vue](https://vuejs.org/) [#react](https://react.dev/) [#laravel](https://laravel.com/)
 
 **Currently working on:** 
 
@@ -30,6 +30,10 @@ I'm a full-stack developer // solutions architect // CTO. I build digital compan
 - Kotlin
 - JavaScript
 - Ruby
+- Flutter
+- Vue
+- React
+- PHP
 
 **Find me on:** 
 
