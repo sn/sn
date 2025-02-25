@@ -1,16 +1,25 @@
 ### Hi 👋
 
-I'm a full-stack developer // solutions architect // CTO. I build digital companies and products. Always striving for simplicity, minimalism and efficiency. 
+I'm a full-stack developer // solutions architect // CTO. I build digital companies and products. Always striving for simplicity, minimalism and efficiency. I've been at this rodeo for 20+ years. 
 
 **Building software with:**
 
-[#python](https://www.python.org) [#java](https://www.java.com/en/) [#javascript](https://www.javascript.com) [#go](https://golang.org) [#ruby](https://www.ruby-lang.org/en) [#flutter](https://flutter.dev) [#vue](https://vuejs.org/) [#react](https://react.dev/) [#laravel](https://laravel.com/)
+- [#python](https://www.python.org)
+- [#go](https://golang.org)
+- [#java](https://www.java.com/en/)
+- [#javascript](https://www.javascript.com)
+- [#ruby](https://www.ruby-lang.org/en)
+- [#flutter](https://flutter.dev)
+- [#vue](https://vuejs.org/)
+- [#react](https://react.dev/)
+- [#laravel](https://laravel.com/)
+- [#c++](https://isocpp.org/)
 
 **Currently working on:** 
 
 - [indiemaker.com](https://indiemaker.com)
+- [#go](https://golang.org)
 - [nitro.sh](https://nitro.sh) (_coming soon 2025_)
-- [underwulf.com](https://underwulf.com)
 
 **Previously sold:**
 - [wixelhq.com](https://wixelhq.com) (sold 2019)
