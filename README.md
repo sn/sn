@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a full-stack developer // solutions architect // CTO. I build digital companies and products. Always striving for simplicity, minimalism and efficiency. I've been at this rodeo for 20+ years. 
+Full Stack Developer // Architect // CTO // Founder: 20+ years of wrangling code and launching digital ventures. I'm all about lean, mean, beautifully simple software.
 
 **Building software with:**
 
