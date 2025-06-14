@@ -10,10 +10,9 @@ Full Stack Developer // Architect // CTO // Founder: 20+ years of wrangling code
 - [#javascript](https://www.javascript.com)
 - [#ruby](https://www.ruby-lang.org/en)
 - [#flutter](https://flutter.dev)
-- [#vue](https://vuejs.org/)
-- [#react](https://react.dev/)
 - [#laravel](https://laravel.com/)
-- [#c++](https://isocpp.org/)
+- [#rust](https://www.rust-lang.org/)
+- [#lua](https://www.lua.org/)
 
 **Currently working on:** 
 
