@@ -11,7 +11,6 @@ Full Stack Developer // Architect // CTO // Founder: 20+ years of wrangling code
 - [#ruby](https://www.ruby-lang.org/en)
 - [#flutter](https://flutter.dev)
 - [#laravel](https://laravel.com/)
-- [#rust](https://www.rust-lang.org/)
 - [#lua](https://www.lua.org/)
 
 **Currently working on:** 
