@@ -4,14 +4,7 @@ Full Stack Developer // Architect // CTO // Founder: 20+ years of wrangling code
 
 **Building software with:**
 
-- [#python](https://www.python.org)
-- [#go](https://golang.org)
-- [#java](https://www.java.com/en/)
-- [#javascript](https://www.javascript.com)
-- [#ruby](https://www.ruby-lang.org/en)
-- [#flutter](https://flutter.dev)
-- [#laravel](https://laravel.com/)
-- [#lua](https://www.lua.org/)
+[#python](https://www.python.org), [#go](https://golang.org), [#java](https://www.java.com/en/), [#javascript](https://www.javascript.com), [#ruby](https://www.ruby-lang.org/en), [#flutter](https://flutter.dev), [#laravel](https://laravel.com/), [#lua](https://www.lua.org/)
 
 **Currently working on:** 
 
