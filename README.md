@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Full Stack Developer // Architect // CTO // Founder: 20+ years of wrangling code and launching digital ventures. I'm all about lean, mean, beautifully simple software.
+Full-stack Developer, Architect, occasional CTO and frequent founder. Two decades of shipping software and launching products. I care about clean architecture, fast feedback loops, and software that stays simple as it scales.
 
 **Building software with:**
 
@@ -10,6 +10,7 @@ Full Stack Developer // Architect // CTO // Founder: 20+ years of wrangling code
 
 - [indiemaker.com](https://indiemaker.com)
 - [underwulf.com](https://underwulf.com)
+- [apollo.black](https://apollo.black)
 - [nitro.sh](https://nitro.sh) (_coming soon 2025_)
 
 **Previously sold:**
