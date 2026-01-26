@@ -11,7 +11,8 @@ Full-stack Developer, Architect, occasional CTO and frequent founder. Two decade
 - [indiemaker.com](https://indiemaker.com)
 - [underwulf.com](https://underwulf.com)
 - [apollo.black](https://apollo.black)
-- [nitro.sh](https://nitro.sh) (_coming soon 2025_)
+- [machinerepublic.com](https://machinerepublic.com)
+- [nitro.sh](https://nitro.sh) (_coming soon 2026_)
 
 **Previously sold:**
 - [wixelhq.com](https://wixelhq.com) (sold 2019)
