@@ -8,11 +8,11 @@ Full-stack Developer, Architect, occasional CTO and frequent founder. Two decade
 
 **Currently working on:** 
 
-- [indiemaker.com](https://indiemaker.com)
-- [underwulf.com](https://underwulf.com)
-- [apollo.black](https://apollo.black)
-- [machinerepublic.com](https://machinerepublic.com)
-- [nitro.sh](https://nitro.sh) (_coming soon 2026_)
+- [indiemaker.com](https://indiemaker.com?utm_source=github)
+- [underwulf.com](https://underwulf.com?utm_source=github)
+- [apollo.black](https://apollo.black?utm_source=github)
+- [machinerepublic.com](https://machinerepublic.com?utm_source=github)
+- [nitro.sh](https://nitro.sh?utm_source=github) (_coming soon 2026_)
 
 **Previously sold:**
 - [wixelhq.com](https://wixelhq.com) (sold 2019)
