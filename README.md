@@ -1,32 +1,32 @@
-### Hi 👋
+### Hi 👋 I'm Sean
 
-Full-stack Developer, Architect, occasional CTO and frequent founder. Two decades of shipping software and launching products. I care about clean architecture, fast feedback loops, and software that stays simple as it scales.
+Full-stack developer + software architect. I build SaaS products and high-scale backends, and I help founders ship fast without turning the codebase into a haunted house.
 
-**Building software with:**
+**What I’m good at**
+- Clean architecture, pragmatic systems design, and "make it boring" scalability
+- Fast feedback loops: CI/CD, observability, and tight iteration cycles
+- Building products end-to-end (backend, UI, infra, and delivery)
 
-[#python](https://www.python.org), [#go](https://golang.org), [#java](https://www.java.com/en/), [#javascript](https://www.javascript.com), [#ruby](https://www.ruby-lang.org/en), [#flutter](https://flutter.dev), [#laravel](https://laravel.com/), [#lua](https://www.lua.org/)
+**Main stack**
+Python · Go · TypeScript/JS · (also: Java, Ruby, Laravel, Flutter)
 
-**Currently working on:** 
+**Currently building**
+- [nitro.sh](https://nitro.sh?utm_source=github) — static publishing / hosting tooling
+- [underwulf.com](https://underwulf.com?utm_source=github) — software studio for ambitious teams
+- [indiemaker.com](https://indiemaker.com?utm_source=github) — makers + products ecosystem
+- [apollo.black](https://apollo.black?utm_source=github) — (add 5–8 word descriptor)
+- [machinerepublic.com](https://machinerepublic.com?utm_source=github) — (add 5–8 word descriptor)
 
-- [nitro.sh](https://nitro.sh?utm_source=github)
-- [underwulf.com](https://underwulf.com?utm_source=github)
-- [indiemaker.com](https://indiemaker.com?utm_source=github)
-- [apollo.black](https://apollo.black?utm_source=github)
-- [machinerepublic.com](https://machinerepublic.com?utm_source=github)
+**Previously sold**
+- [wixelhq.com](https://wixelhq.com) — sold (2019)
+- [myperks.co.za](https://myperks.co.za) — sold (2021)
 
-**Previously sold:**
-- [wixelhq.com](https://wixelhq.com) (sold 2019)
-- [myperks.co.za](https://myperks.co.za) (sold 2021)
+**Open to**
+- OSS collaborations
+- Early-stage advisory / occasional CTO work
+- Contracting (architecture + implementation)
 
-**Open to:**
-
-- #opensource 
-- #contracting 
-- #freelancing
-- #startups
-
-**Find me on:** 
-
+**Find me**
 [![linkedin badge](https://img.shields.io/badge/Sean_Nieuwoudt-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/seannieuwoudt)
 [![twitter badge](https://img.shields.io/badge/@ghstcode-30302f?style=flat&logo=twitter)](https://twitter.com/ghstcode)
 [![stackoverflow badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/ghstcode)
