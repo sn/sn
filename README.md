@@ -12,14 +12,13 @@ Python · Go · TypeScript/JS · (also: Java, Ruby, Laravel, Flutter)
 
 **Currently building**
 - [nitro.sh](https://nitro.sh?utm_source=github) — static publishing / hosting tooling
-- [underwulf.com](https://underwulf.com?utm_source=github) — software studio for ambitious teams
-- [indiemaker.com](https://indiemaker.com?utm_source=github) — makers + products ecosystem
-- [apollo.black](https://apollo.black?utm_source=github) — (add 5–8 word descriptor)
-- [machinerepublic.com](https://machinerepublic.com?utm_source=github) — (add 5–8 word descriptor)
+- [underwulf.com](https://underwulf.com?utm_source=github) - software studio for ambitious teams
+- [indiemaker.com](https://indiemaker.com?utm_source=github) - makers + products ecosystem
+- [machinerepublic.com](https://machinerepublic.com?utm_source=github) - AI studio
 
 **Previously sold**
-- [wixelhq.com](https://wixelhq.com) — sold (2019)
-- [myperks.co.za](https://myperks.co.za) — sold (2021)
+- [wixelhq.com](https://wixelhq.com) - sold (2019)
+- [myperks.co.za](https://myperks.co.za) - sold (2021)
 
 **Open to**
 - OSS collaborations
