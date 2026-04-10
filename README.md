@@ -25,6 +25,9 @@ Python · Go · TypeScript/JS · (also: Java, Ruby, Laravel, Flutter)
 - Early-stage advisory / occasional CTO work
 - Contracting (architecture + implementation)
 
+**Books**
+- [Rocking with Sinatra](https://github.com/sn/rocking-with-sinatra)
+
 **Find me**
 [![linkedin badge](https://img.shields.io/badge/Sean_Nieuwoudt-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/seannieuwoudt)
 [![twitter badge](https://img.shields.io/badge/@ghstcode-30302f?style=flat&logo=twitter)](https://twitter.com/ghstcode)
