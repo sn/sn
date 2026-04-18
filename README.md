@@ -29,7 +29,7 @@ Python · Go · TypeScript/JS · (also: Java, Ruby, Laravel, Flutter)
 - [Rocking with Sinatra](https://github.com/sn/rocking-with-sinatra)
 
 #### Find me Online
-- [![linkedin badge](https://img.shields.io/badge/Sean_Nieuwoudt-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/seannieuwoudt)
-- [![twitter badge](https://img.shields.io/badge/@ghstcode-30302f?style=flat&logo=twitter)](https://twitter.com/ghstcode)
-- [![stackoverflow badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/482842/ghstcode)
-- [![dribbble badge](https://img.shields.io/badge/ghstcode-30302f?style=flat&logo=dribbble)](https://dribbble.com/ghstcode)
+- [LinkedIn](https://www.linkedin.com/in/seannieuwoudt)
+- [Twitter/X](https://x.com/ghstcode)
+- [StackOverflow](https://stackoverflow.com/users/482842/ghstcode)
+- [Dribbble](https://dribbble.com/ghstcode)
