@@ -1,9 +1,14 @@
 ### Hi 👋 I'm Sean
 
-Full-stack developer + software architect. I build SaaS products and high-scale backends, and I help founders ship fast without turning the codebase into a haunted house.
+Full-stack developer + software architect. I build SaaS products, high-scale backends, and practical software for teams working on ambitious real-world systems.
 
 #### Main stack
-Python · Go · TypeScript/JS · (also: Java, Ruby, Laravel, Flutter)
+Python · Go · Rust · TypeScript/JS · (also: Java, Ruby, Laravel, Flutter)
+
+#### Especially interested in
+- LoRa, low-power networks, and edge-connected systems
+- Space and satellite-adjacent software / infrastructure
+- Agricultural technology that connects software, hardware, and field operations
 
 #### Currently building
 - [nitro.sh](https://nitro.sh?utm_source=github) — static publishing / hosting tooling
@@ -18,6 +23,7 @@ Python · Go · TypeScript/JS · (also: Java, Ruby, Laravel, Flutter)
 
 #### Open to
 - OSS collaborations
+- Frontier-tech projects in LoRa, space, and agtech
 - Early-stage advisory / occasional CTO work
 - Contracting (architecture + implementation)
 
