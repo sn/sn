@@ -15,6 +15,7 @@ Python · Go · Rust · TypeScript/JS · (also: Java, Ruby, Laravel, Flutter)
 - [underwulf.com](https://underwulf.com?utm_source=github) - software studio for ambitious teams
 - [indiemaker.com](https://indiemaker.com?utm_source=github) - makers + products ecosystem
 - [machinerepublic.com](https://machinerepublic.com?utm_source=github) - AI software development studio
+- [django-studio.com](https://django-studio.com?utm_source=github) - Django/Python specialist software studio
 - [craaft.io](https://craaft.io?utm_source=github) -  Foundationally simple Kanban for indie devs and small teams
 
 #### Previously sold
