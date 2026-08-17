@@ -11,6 +11,7 @@ Python · Go · Rust · TypeScript/JS · (also: Java, Ruby, Laravel, Flutter)
 - Agricultural technology that connects software, hardware, and field operations
 
 #### Currently building
+- [ecko.sh](https://ecko.sh?utm_source=github) - a programming language with ai built in
 - [nitro.sh](https://nitro.sh?utm_source=github) - static publishing / hosting tooling
 - [underwulf.com](https://underwulf.com?utm_source=github) - software studio for ambitious teams
 - [indiemaker.com](https://indiemaker.com?utm_source=github) - makers + products ecosystem
