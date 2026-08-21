@@ -6,18 +6,19 @@ Full-stack developer + software architect. I build SaaS products, high-scale bac
 Python · Go · Rust · TypeScript/JS · (also: Java, Ruby, Laravel, Flutter)
 
 #### Especially interested in
-- LoRa, low-power networks, and edge-connected systems
+- Programming langauges
+- Fintech, SaaS
 - Space and satellite-adjacent software / infrastructure
-- Agricultural technology that connects software, hardware, and field operations
+- Agricultural technology that connects software, hardware, and field operations, IoT
 
 #### Currently building
 - [ecko.sh](https://ecko.sh?utm_source=github) - a programming language with ai built in
 - [nitro.sh](https://nitro.sh?utm_source=github) - static publishing / hosting tooling
+- [craaft.io](https://craaft.io?utm_source=github) -  Foundationally simple Kanban for indie devs and small teams
 - [underwulf.com](https://underwulf.com?utm_source=github) - software studio for ambitious teams
 - [indiemaker.com](https://indiemaker.com?utm_source=github) - makers + products ecosystem
 - [machinerepublic.com](https://machinerepublic.com?utm_source=github) - AI software development studio
 - [django-studio.com](https://django-studio.com?utm_source=github) - Django/Python specialist software studio
-- [craaft.io](https://craaft.io?utm_source=github) -  Foundationally simple Kanban for indie devs and small teams
 
 #### Previously sold
 - [wixelhq.com](https://wixelhq.com) - sold (2019)
