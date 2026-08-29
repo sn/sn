@@ -16,7 +16,7 @@ Python · Go · Rust · TypeScript/JS · (also: Java, Ruby, Rails, Flutter)
 - [ecko.sh](https://ecko.sh?utm_source=github) · a programming language where AI is a keyword, not an import
 - [nitro.sh](https://nitro.sh?utm_source=github) · static publishing and hosting tooling
 - [craaft.io](https://craaft.io?utm_source=github) · foundationally simple Kanban for indie devs and small teams
-- [indiemaker.com](https://indiemaker.com?utm_source=github) · makers and products ecosystem
+- [indiemaker.com](https://indiemaker.com?utm_source=github) · the largest marketplace for buying and selling side projects and micro-SaaS
 
 #### Studios
 - [underwulf.com](https://underwulf.com?utm_source=github) · software studio for ambitious teams
