@@ -3,7 +3,7 @@
 Full-stack engineer and software architect. Two decades of SaaS products and high-scale backends, two studios sold, still writing production code most days.
 
 #### Main stack
-Python · Go · Rust · TypeScript/JS · (also: Java, Ruby, Rails, Flutter)
+Python · Go · Rust · Ecko · TypeScript/JS · (also: Java, Ruby, Rails, Flutter)
 
 #### Currently building
 - [ecko.sh](https://ecko.sh?utm_source=github) · a programming language where AI is a keyword, not an import
