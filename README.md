@@ -10,6 +10,7 @@ Python · Go · Rust · Ecko · TypeScript/JS · (also: Java, Ruby, Rails, Flutt
 - [nitro.sh](https://nitro.sh?utm_source=github) · static publishing and hosting tooling
 - [craaft.io](https://craaft.io?utm_source=github) · foundationally simple Kanban for indie devs and small teams
 - [indiemaker.com](https://indiemaker.com?utm_source=github) · the largest marketplace for buying and selling side projects and micro-SaaS
+- [bcat.studio](https://bcat.studio/) · still under wraps (for now)
 
 #### Books
 - [Payments Playbook](https://payments-playbook.com) · build, integrate, scale, and optimise payment systems
